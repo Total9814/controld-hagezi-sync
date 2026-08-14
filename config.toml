@@ -25,7 +25,7 @@ dry_run = false
 
 [profiles]
 # Exact names of your ControlD profiles (case-sensitive).
-names = ["Tesla", "Kids", "Friends", "Adults"]
+names = ["Kids", "Personal", "Router"]
 
 # =============================================================================
 # FOLDER DEFINITIONS
@@ -49,22 +49,20 @@ names = ["Tesla", "Kids", "Friends", "Adults"]
 # =============================================================================
 
 [profile_folders]
-Tesla   = ["Badware Hoster", "Most Abused TLDs"]
 Kids    = [
   "Badware Hoster",
   "Most Abused TLDs",
   "No Safesearch Support",
   "Referral Allow"
 ]
-Friends = [
+Personal = [
   "Badware Hoster",
   "Most Abused TLDs",
-  "Referral Allow",
-  "META Tracker Allow"
+  "Referral Allow"
 ]
-Adults  = [
+Router  = [
   "Badware Hoster",
   "Most Abused TLDs",
   "Referral Allow",
-  "META Tracker Allow"
+  "No Safesearch Support"
 ]
