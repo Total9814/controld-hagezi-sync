@@ -49,7 +49,7 @@ names = ["Kids", "Personal", "Router"]
 # =============================================================================
 
 [profile_folders]
-Kids    = [
+Xander    = [
   "Badware Hoster",
   "Most Abused TLDs",
   "No Safesearch Support",
@@ -61,7 +61,11 @@ Personal = [
 ]
 Router  = [
   "Badware Hoster",
-  "Most Abused TLDs",
   "Referral Allow",
   "No Safesearch Support"
 ]
+Isabelle    = [
+  "Badware Hoster",
+  "Most Abused TLDs",
+  "No Safesearch Support",
+  "Referral Allow"
